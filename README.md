@@ -69,5 +69,5 @@ Run the application: Launch the chatbot and begin interacting.
 This project was developed by Arron Parejas. A special thank you to the developers at Cohere for providing the API that powers the natural language processing capabilities of this chatbot.
 
 ⚡ Support
-If you encounter any issues or have questions, feel free to reach out by creating an issue in this repository or contacting me directly at [your-email@example.com].
+If you encounter any issues or have questions, feel free to reach out by creating an issue in this repository or contacting me directly at [parejasarronkian@gmail.com].
 
